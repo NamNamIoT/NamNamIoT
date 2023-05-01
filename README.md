@@ -1,5 +1,5 @@
 [![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/NamNamIoT)
-<h1 align="center">Hi 👋, I'm Nam, a freelancer specializing in developing IoT products.</h1>
+<h2 align="center">Hi 👋, I'm Nam, a freelancer specializing in developing IoT products.</h2>
 <h3 align="center">Provide automation solutions with high reliability and long-term stable operation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NamNamIoT&label=Profile%20views&color=0e75b6&style=flat" alt="NamNamIoT" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NamNamIoT" alt="NamNamIoT" /></a> </p>
