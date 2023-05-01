@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C/C++. Altium, Blender 3D..**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NamNamIoT?tab=repositories](https://github.com/NamNamIoT?tab=repositories)
+- 👨‍💻 All of my projects are available at [NamNamIoT](https://github.com/NamNamIoT?tab=repositories)
 
 - 📝 I regularly write articles on [https://canopus-iot.com](https://canopus-iot.com)
 
