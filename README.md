@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Canopus**
 
-- 🌱 I’m currently learning **C/C++. Altium, Blender 3D..**
+- 🌱 I’m currently learning **C/C++. Altium...**
 
 - 👨‍💻 All of my projects are available at [NamNamIoT](https://github.com/NamNamIoT?tab=repositories)
 
 - 📝 I regularly write articles on [https://canopus-iot.com](https://canopus-iot.com)
 
-- 💬 Ask me about **Lora, Modbus, IoT,IIoT device**
+- 💬 Ask me about **Lora, Modbus, IoT, IIoT device**
 
 - 📫 How to reach me **thanhnamLT5@gmail.com**
 
