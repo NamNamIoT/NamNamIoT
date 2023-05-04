@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://canopus-iot.com](https://canopus-iot.com)
 
-- 💬 Ask me about **Lora, Modbus, IoT, IIoT device**
+- 💬 Ask me about **[*Lora/LoraWan*](https://rakwireless.kckb.st/canopus), Modbus, IoT, IIoT device**
 
 - 📫 How to reach me **thanhnamLT5@gmail.com**
 
