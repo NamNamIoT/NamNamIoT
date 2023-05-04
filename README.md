@@ -18,6 +18,7 @@
 
 - 📫 How to reach me **thanhnamLT5@gmail.com**
 
+#### [*This magic door will take you to my busiest repo* 🚪🚪🚪](https://github.com/NamNamIoT/RAK3172_CANOPUS)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
