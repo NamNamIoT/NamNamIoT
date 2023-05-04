@@ -1,4 +1,4 @@
-[![iotbanner-1024x358](https://user-images.githubusercontent.com/49629370/236084578-6dcb3286-f500-4cd4-885f-b35d8e2870f1.jpg)](https://github.com/NamNamIoT)
+[![industries-annimation](https://user-images.githubusercontent.com/49629370/236089022-6dbf5739-637b-4cbd-99d9-420c4c2c33d4.gif)](https://github.com/NamNamIoT)
 <h2 align="center">Hi 👋, I'm Nam, a freelancer specializing in developing IoT products.</h2>
 <h3 align="center">Provide automation solutions with high reliability and long-term stable operation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NamNamIoT&label=Profile%20views&color=0e75b6&style=flat" alt="NamNamIoT" /> </p>
